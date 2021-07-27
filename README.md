@@ -12,3 +12,14 @@
 
 
 #### Indice :tw-1f3a9:
+# Indice :tw-1f4d1:
+##### 1. portada 
+##### 2. Anteportada 
+- Glosario HTML CSS
+
+    - Página de inicio
+         Banner de introducción
+    - Glosario
+        Contendio HTML
+         Contenido CSS
+         
