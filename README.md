@@ -22,4 +22,10 @@
     - Glosario
         Contendio HTML
          Contenido CSS
-         
+
+
+Objetivos a futuro twemoji-1f3b1
+Completar todas las tareas
+Decorar el portafolio
+Poner mas atencion en las clases
+Entrgar mis tareas a tiempo
